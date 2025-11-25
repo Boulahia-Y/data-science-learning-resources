@@ -1,4 +1,4 @@
-# data-science-learning-resources
+# Data-science-learning-resources
 <h1 style="color:#d46a92;font-weight:bold;">📚 My Data Science & Machine Learning Books Collection.</h1>
 
 Welcome to my personal library of Data Science, Data Mining, Machine Learning, and Deep Learning resources.
